@@ -1,0 +1,35 @@
+Zasady gry
+W Black Jacka może grać maksymalnie 7 graczy. Gra się podobnie jak w tak zwane "oko", czyli dobieramy karty do 21 punktów. Gracze nie grają przeciwko sobie tylko przeciwko krupierowi. Wygrywa ten kto będzie bliżej 21 punktów, lub zdobędzie Black Jacka, czyli Asa i "10", bądź inną figurę punktowaną za 10 pkt. Gdy ktoś zdobędzie więcej niż 21 punktów, wówczas przegrywa. Krupier zawsze musi dobierać karty do momentu, w którym będzie miał 17 lub więcej punktów. Jeśli już zdobędzie więcej punktów, np. 18 wtedy nie może dobierać więcej kart. W przypadku remisu graczowi zwraca się postawioną stawkę.
+
+Krupier zaczyna rozdawać karty odkryte od pierwszego gracza po jego lewej stronie, jedną kartę odkrytą rozdaje także sobie, następnie ponownie rozdaję po jednej karcie odkrytej dla graczy, oraz jedną zakrytą dla siebie.
+
+Teraz gracze mają do wyboru:
+
+Wziąć kartę (HIT) - gracz otrzyma kolejną kartę.
+
+Nie wziąć karty (STAND) - gracz nie dobiera kolejnej karty.
+
+Podwojenie stawki (DOUBLE) - w tym przypadku podwaja się stawkę, gracz otrzyma wtedy jeszcze jedną ostatnią kartę.
+
+Rozdzielenie (SPLIT) - jeśli otrzymałeś dwie karty o tej samej wartości możesz je rozdzielić, wtedy do drugiej karty rozdzielonej musisz postawić taką samą stawkę jaką postawiłeś przed danym rozdaniem. Teraz na każdy układ możesz otrzymać dowolną ilość kart. Jest tylko jeden wyjątek: jeśli rozdziela się dwa Asy, do każdego z nich można dobrać tylko po jednej karcie. Należy uwzględnić, że układ może być rozdzielony tylko raz, to znaczy jeśli trzecia karta jest identyczna z dwoma pierwszymi kartami, nie można z tą kartą utworzyć trzeciego układu.
+
+Istnieją też inne trzy opcje:
+
+Ubezpieczenie (INSURANCE) - Jeśli odkrytą kartą krupiera jest As możemy się ubezpieczyć na wypadek Black Jacka. Wówczas dodatkowo stawiamy połowę swojej postawionej stawki na zakład i jeśli faktycznie krupier będzie miał Black Jacka to dostaniemy zwrot stawki i ubezpieczenie które postawiliśmy. Jeśli rozdający nie ma Black Jacka, gracz traci ubezpieczenie i rozdanie jest rozgrywane do końca.
+
+Równe pieniądze (EVEN MONEY) - Jeśli gracz ma szczęście i dostanie Black Jacka, a pierwsza karta krupiera to As, krupier oferuje tzw. "Even Money". Jeśli gracz zaakceptuje tą opcje, Black Jack jest wypłacany w skali 1:1, a nie jak zwykle 3:2. Wychodzi się wówczas z założenia, że drugą kartą krupiera jest 10 (lub Walet, Dama, Król). Jeśli gracz nie zaakceptuje "Even Money", a krupier uzyska Black Jacka, partia kończy się remisem. Jeśli gracz nie zaakceptuje "Even Money" i krupier nie ma Black Jacka gra jest wypłacana normalnie w skali 3 do 2.
+
+Poddać się (SURRENDER) - W niektórych kasynach istnieje opcja poddawania się po otrzymaniu dwóch kart. Jeśli uważamy, że karty które otrzymaliśmy nie są wystarczające przynajmniej na remis to można się poddać tracąc 50% stawki. (Nie wszystkie kasyna oferują tą opcję)
+
+Punktowanie kart
+Karty od 2 do 9 oczek - mają tyle samo punktów, co oczek.
+"10", Walet, Dama, Król - mają po 10 punktów.
+As - ma 1, bądź 11 punktów. Gracz sam wybiera, czy jego As liczył się za 1, czy 11 pkt.
+
+Przykłady Black Jacków
+As i "10";  As i Walet;  As i Dama;  As i Król
+
+Wypłata wygranych
+Jeśli masz wyższe rozdanie, czyli masz więcej oczek niż krupier, otrzymasz wypłatę 1:1. Czyli to co postawiłeś, oraz drugie tyle.
+Jeśli masz Black Jacka otrzymasz wypłatę 3:2.
+Czyli to co postawiłeś, oraz 150% postawionej kwoty
